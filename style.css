@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Prata&family=Raleway:wght@700&family=Suez+One&display=swap');
+
+/* this is a comment! */
+
 body{
     background: #2A2349;
     color: aliceblue;
 }
 
+/* this is a second comment */
+/* this is a second comment */
 nav{
     width: 90%;
     margin: auto;
